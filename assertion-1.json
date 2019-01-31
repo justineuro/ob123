@@ -6,7 +6,7 @@
 		"salt": "iamjustineuro",
 		"identity": "sha256$a131b153e47f47a8690cec453ba11c8133b895305b89b334751844420bf831dd" 
 	}, 
-	"image": "https://justineuro.github.io/ob123/2ndRUP.png", 
+	"image": "https://justineuro.github.io/ob123/1stRUP.png", 
 	"evidence": "https://justineuro.github.io/ob123/baked", 
 	"issuedOn": "2019-01-31", 
 	"issuer": "https://justineuro.github.io/ob123/badge-issuer.json", 
