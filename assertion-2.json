@@ -1,0 +1,18 @@
+{ 
+	"uid": "001", 
+	"recipient": { 
+		"type": "email", 
+		"hashed": true, 
+		"salt": "iamjustineuro",
+		"identity": "sha256$a131b153e47f47a8690cec453ba11c8133b895305b89b334751844420bf831dd" 
+	}, 
+	"image": "https://justineuro.github.io/ob123/3rdRUP.png", 
+	"evidence": "https://justineuro.github.io/ob123/", 
+	"issuedOn": "2019-01-31", 
+	"issuer": "https://justineuro.github.io/ob123/badge-issuer.json", 
+	"badge":  "https://justineuro.github.io/ob123/class-2.json", 
+	"verify": { 
+		"type": "hosted", 
+		"url": "https://justineuro.github.io/ob123/assertion-2.json" 
+	}
+}
